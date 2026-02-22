@@ -1,4 +1,4 @@
-\## Train-Test Split
+\## ML MODELS
 
 
 
@@ -6,21 +6,22 @@
 
 Dataset have taken from Kaggle.
 
-We used 80-20 pattern for training and testing.
-
-So this notebook is helpfull how we done it.
+in this repository i have used various ml models to trian and test data so i have publish that data into this repository.
 
 
 
 \## 🛠 Tools \& Technologies
 
 * Pandas
-* skit-learn
-* Train-Test Split
+* Numpy
+* Seaborn
+* Matplotlib
+* skit-learn models 
+* Machine Learning Models
 
 
 
 \## 🧠 Key Insights
+Various ml models.
 
-How to use train-test splitting.
 
